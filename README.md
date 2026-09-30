@@ -4,6 +4,7 @@
 
 Testando como funciona o push e conexão do git
 
+Se liga no nosso canal do youtube
 
 
 \## Fluxo de trabalho git local
